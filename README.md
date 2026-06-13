@@ -1,4 +1,4 @@
-# ⚔️ QuoteWars
+#  QuoteWars
 
 **Words are weapons. Back yours with tokens.**
 
