@@ -94,4 +94,6 @@ genlayer call --contract 0xaFd6d03... get_battle "1"
 
 ---
 
+## 📜 License
 
+[MIT](./LICENSE)
